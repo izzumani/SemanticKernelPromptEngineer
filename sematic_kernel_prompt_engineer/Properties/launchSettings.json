@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "sematic_kernel_prompt_engineer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

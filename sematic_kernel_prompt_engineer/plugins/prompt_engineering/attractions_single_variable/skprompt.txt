@@ -1,0 +1,1 @@
+﻿Create an itinerary of three must-see attractions in {{$city}}.
